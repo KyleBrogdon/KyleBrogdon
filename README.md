@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Kyle Brogdon</h1>
 <h3 align="center">A career changer with a passion for software development</h3>
 
-- 📚 I’m currently working on my **Master of Computer Science** from **University of Illinois Urbana-Champaign**
+- 📚 I’m currently working on my **Master of Computer Science** from the **University of Illinois Urbana-Champaign**
 
 - 📜 I just finished my **Bachelor of Science in Computer Science** from **Oregon State University**
 
