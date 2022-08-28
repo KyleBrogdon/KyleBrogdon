@@ -7,7 +7,7 @@
 
 - ☁ I’m currently learning **Distributed Systems** (Cloud design fundamentals with a focus Hadoop, Mapreduce, and underlying algorithms)
 
-- 🎖 I used to be a **Military Pilot** for the Navy
+- 🎖 I'm transitioning from 8 years as a **Military Pilot** for the Navy
 
 - 🤝 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/kyle-brogdon/)
 
