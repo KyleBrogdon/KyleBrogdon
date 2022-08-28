@@ -5,7 +5,7 @@
 
 - 📜 I just finished my **Bachelor of Science in Computer Science** from **Oregon State University**
 
-- ☁ I’m currently learning **Distributed Systems** (Cloud Design Fundamentals including Hadoop, Mapreduce, and underlying algorithms)
+- ☁ I’m currently learning **Distributed Systems** (Cloud design fundamentals with a focus Hadoop, Mapreduce, and underlying algorithms)
 
 - 🎖 I used to be a **Military Pilot** for the Navy
 
