@@ -5,7 +5,7 @@
 
 - 📜 I just finished my **Bachelor of Science in Computer Science** from **Oregon State University**
 
-- ☁ This semester I'm learning **Cloud Computing Applications** (Cloud computing fundamentals and virtualization)
+- ☁ This semester I'm learning about **Cloud Computing Applications** (cloud computing fundamentals and virtualization)
 
 - 🎖 I start my second **Software Engineering Internship** in April with **NASA** after 9 years as a Military Pilot for the Navy. 
 
