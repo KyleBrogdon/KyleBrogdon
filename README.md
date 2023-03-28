@@ -7,7 +7,7 @@
 
 - ☁ This semester I'm learning **Cloud Computing Applications** (Cloud computing fundamentals and virtualization)
 
-- 🎖 I started my first **Software Engineering Internship** in December after 8 years as a **Military Pilot** for the Navy. 
+- 🎖 I start my second **Software Engineering Internship** in April with **NASA** after 9 years as a Military Pilot for the Navy. 
 
 - 🤝 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/kyle-brogdon/)
 
