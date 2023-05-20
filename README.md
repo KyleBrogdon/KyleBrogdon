@@ -5,7 +5,7 @@
 
 - 📜 I finished my **Bachelor of Science in Computer Science** from **Oregon State University** in August 2022.
 
-- ☁ This semester I'm learning about **Scientific Visualiaztion** and **Data Cleaning**.
+- ☁ This semester I'm learning about **Scientific Visualization** and **Data Cleaning**.
 
 - 🎖 I'm currently a **Software Engineering Internship** with **NASA** after 9 years as a Military Pilot for the Navy. 
 
