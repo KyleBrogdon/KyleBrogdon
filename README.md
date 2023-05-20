@@ -1,13 +1,13 @@
 <h2 align="center">Hi 👋, I'm Kyle Brogdon</h1>
 <h3 align="center">A career changer with a passion for software development</h3>
 
-- ✍ I’m currently working on my **Master of Computer Science** from the **University of Illinois Urbana-Champaign**
+- ✍ I’m currently working on my **Master of Computer Science** from the **University of Illinois Urbana-Champaign**.
 
-- 📜 I just finished my **Bachelor of Science in Computer Science** from **Oregon State University**
+- 📜 I finished my **Bachelor of Science in Computer Science** from **Oregon State University** in August 2022.
 
-- ☁ This semester I'm learning about **Cloud Computing Applications** (cloud computing fundamentals and virtualization)
+- ☁ This semester I'm learning about **Scientific Visualiaztion** and **Data Cleaning**.
 
-- 🎖 I start my second **Software Engineering Internship** in April with **NASA** after 9 years as a Military Pilot for the Navy. 
+- 🎖 I'm currently a **Software Engineering Internship** with **NASA** after 9 years as a Military Pilot for the Navy. 
 
 - 🤝 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/kyle-brogdon/)
 
