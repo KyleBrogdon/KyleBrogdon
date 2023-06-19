@@ -7,7 +7,7 @@
 
 - ☁ This semester I'm learning about **Scientific Visualization** and **Data Cleaning**.
 
-- 🎖 I'm currently a **Software Engineering Internship** with **NASA** after 9 years as a Military Pilot for the Navy. 
+- 🎖 I'm currently a **Software Engineer Intern** with **NASA** after 9 years as a Military Pilot for the Navy. 
 
 - 🤝 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/kyle-brogdon/)
 
