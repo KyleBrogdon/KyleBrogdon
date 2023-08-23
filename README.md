@@ -5,9 +5,9 @@
 
 - 📜 I finished my **Bachelor of Science in Computer Science** from **Oregon State University** in August 2022.
 
-- ☁ This semester I'm learning about **Scientific Visualization** and **Data Cleaning**.
+- ☁ This semester I'm learning about **Data Curation** and **Principles of Software Engineering**.
 
-- 🎖 I'm currently a **Software Engineer Intern** with **NASA** after 9 years as a Military Pilot for the Navy. 
+- 🎖 I'm currently a **Software Engineer Intern** with **Michigan Health Information Network** after 9 years as a Military Pilot for the Navy. 
 
 - 🤝 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/kyle-brogdon/)
 
